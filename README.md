@@ -1,4 +1,5 @@
 # Rust-Compress-File
+Rust script that can compress pdf to zip files
 
 ## Usage
 
